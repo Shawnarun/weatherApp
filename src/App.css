@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+:root{
+  --darkBlue: #282b4d;
+  --black:#000;
+  --ash:#ecf0f3;
+  --gray:#3c3e41;
+  --white:#fff;
+  --lightBlue:#266198;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+  background: url(/public/img/bg.jpg);
+  height: 100vh;
+ 
+    
+}
+.header{
+  padding-top: 30px;
+  background: none;
+
+}
